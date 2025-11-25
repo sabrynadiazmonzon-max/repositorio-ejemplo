@@ -4,8 +4,8 @@ Este es un repositorio simple para practicar Git y GitHub.
 Aquí se muestran ejemplos básicos de archivos y carpetas.
 
 ## Contenido
-- `hola.txt`: archivo de prueba.
-- Carpeta `imagenes/`: carpeta vacía para mostrar estructura.
+- [hola.txt](hola.txt): archivo de prueba.
+- Carpeta [imagenes](imagenes/): carpeta para mostrar estructura.
 
 ## Objetivo
 Aprender lo básico:
